@@ -1,0 +1,114 @@
+.welding{
+  background-color: #EEEEEE;
+}
+.car{
+  background-color: #787A91;
+}
+.w{
+  width: 50%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+#welding-heading{
+  padding: 5% 5%;
+}
+.b{
+  padding: 3% 0% 3% 1%;
+}
+#foot{
+  background-color: #EEEEEE;
+  padding: 2% ;
+}
+hr{
+  color: blue;
+  border: dotted blue 6px;
+  border-bottom: none;;
+}
+h1{
+  font-family: 'Courgette', cursive;
+}
+h3{
+  font-family: 'Caveat', cursive;
+}
+.heading{
+  color: hotpink;
+  font-size: 7vw;
+  text-shadow: 0.1vw 0.1vw 0.5vw blue;
+  font-family:cursive;
+  font-weight: bolder;
+}
+.index1{
+  padding-top: 0vw;
+  margin-left: 20vw;
+  width: 20vw;
+  font-size: 2vw;
+  text-align: center;
+  display: inline-block;
+  line-height: 2vw;
+}
+.image1{
+  margin-top: 10vw;
+  display: inline-block;
+  margin-left: 10vw;
+  width: 40vw;
+  height: 40vw;
+  background-image: url("moti_1.png");
+  background-size: 40vw 40vw;
+  background-repeat: no-repeat;
+}
+.image2{
+  margin-top: 10vw;
+  margin-bottom: 10vw;
+  display: inline-block;
+  margin-left: 15vw;
+  width: 40vw;
+  height: 40vw;
+  background-image: url("moti_2.png");
+  background-size: 40vw 40vw ;
+  background-repeat: no-repeat;
+}
+.index2{
+  padding-top: 0vw;
+  margin-left: 10vw;
+  width: 20vw;
+  font-size: 2vw;
+  text-align: center;
+  display: inline-block;
+  line-height: 2vw;
+}
+.main{
+  background-color: white;
+}
+.linkedin{
+  font-size: 1.5vw;
+  height: 35vw;
+  background-color: rgb(165, 162, 162);
+  text-align: center;
+  color: whitesmoke;
+}
+.prashant{
+  width: 10vw;
+  height: 10vw;
+  border-radius: 100%;
+}
+.raghav{
+  width: 10vw;
+  height: 10vw;
+  border-radius: 100%;
+}
+#ids{
+  display: inline-block;
+}
+#prashant{
+  display: inline-block;
+  margin-right: 2.5vw;
+}
+#raghav{
+  display: inline-block;
+  margin-left: 2.5vw;
+}
+body{
+  background:linear-gradient(white) ;
+  background-size: cover;
+  background-attachment: fixed;
+}
